@@ -10,8 +10,6 @@ $m = query("SELECT * FROM mahasiswa1 WHERE id = '$id'");
 ?>
 
 
-
-
 <!DOCTYPE html>
 <html lang="en">
 
